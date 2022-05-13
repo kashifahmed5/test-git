@@ -1,0 +1,3 @@
+--2022-04-01 19:49:20--  http:///var/run/docker.sock/v1.24/build?buildargs=%7B%7D
+Resolving /var/run/docker.sock (/var/run/docker.sock)... failed: Name or service not known.
+wget: unable to resolve host address ‘/var/run/docker.sock’
